@@ -1,0 +1,6 @@
+projectKey=laundry
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=laundry
+ceTaskId=87ae7ec8-6bb3-4ec2-80b7-0c8032dd24df
+ceTaskUrl=http://localhost:9000/api/ce/task?id=87ae7ec8-6bb3-4ec2-80b7-0c8032dd24df
